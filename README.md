@@ -13,7 +13,7 @@ This repo holds the code for a site that I am in process of developing which I h
 On this project I display all the script files I am using in unison with Unity. What I am most proud of right now on this project is creating a capability with the help of the Triangulator program for the player to draw an object out of thin air. These scripts are a work in progress. It is coded in C#.
 
 ## Contact
-[My Linked-In](https://www.linkedin.com/in/bennett-upfield-a17a7a224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx62599EPRieqObaFSPjfAA%3D%3D)
+[My Linked-In](https://www.linkedin.com/in/bennett-upfield/)
 
 [My Dev Blog](https://dev.to/bjupfield)
 
