@@ -1,7 +1,5 @@
 # Hey I'm Bennett
-My area of Expertise is Full-Stack Software Engineering, and I back that up with my recent graduation from Flatirons Software Engineering program. I have a passion for any sort of funky coding you can throw at me, but always love to see things that both push the boundaries and are useful in the day to day.
-
-Excellent Problem solver. Creativity is what I like to see when I'm coding, and ridiculous for loops or while statements are the stuff of my nightmares and what makes me able to sleep at night.
+I exist Here is some code that I have created, if you want to reach me uhh, currently either email me or find my discord.
 
 ## Favorite Projects
 ### SVG-Creator/Personal-Website | [Repo](https://github.com/bjupfield/my-website)
@@ -12,6 +10,10 @@ This repo holds the code for a site that I am in process of developing which I h
 
 On this project I display all the script files I am using in unison with Unity. What I am most proud of right now on this project is creating a capability with the help of the Triangulator program for the player to draw an object out of thin air. These scripts are a work in progress. It is coded in C#.
 
+I HAVE ABANDONED THIS PROJECT AND AM CURRENTLY WORKING IN UNREAL
+
+The unreal project is in Unreal5Failure if your Interested
+
 ## Contact
 [My Linked-In](https://www.linkedin.com/in/bennett-upfield/)
 
@@ -19,7 +21,7 @@ On this project I display all the script files I am using in unison with Unity. 
 
 ## Skills
 
-# React, JavaScript, SQL, Rails, Ruby, CSS, C#, HTML
+# React, JavaScript, SQL, Rails, Ruby, CSS, C#, HTML, Learning C++ and C currently
 
 
 
