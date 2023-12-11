@@ -24,7 +24,7 @@ Its vaguely interesting.
 
 ### "Languages/FrameWorks"
 
-#### React, JavaScript, SQL, Rails, Ruby, CSS, C#, HTML, Learning C++ and C currently
+#### React, JavaScript, SQL, Rails, Ruby, CSS, C#, HTML, Learning C++ and C currently, also learning dll's language CIL or IL
 
 
 
