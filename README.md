@@ -5,12 +5,20 @@ LLLLL---LLLLL
 
 I HAVE ABANDONED THIS PROJECT AND AM CURRENTLY WORKING IN UNREAL
 
-The unreal project is in Unreal5Failure if your Interested. What I've done now is work on graphics accidentally mostly...
-Its vaguely interesting.
+LLLLLLLLLLLL------------LLLLLLLLLLLLLLL
+
+I HAVE ABANDONED UNREAL AND AM CURRENTELY WORKING IN UNREAL
+
+LLLLLLLLLLLLLLLLLLL---------------------LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+
+I HAVE ABANDONED UNREAL AND AM CURRENTLY WORKING ON WHATEVER REPOSITORIES I HAVE MOST RECENTLY PUSHED TOO
+
+tdl:
+
 
 ### "Languages/FrameWorks"
 
-#### React, JavaScript, SQL, Rails, Ruby, CSS, C#, HTML, Learning C++ and C currently, also learning dll's language CIL or IL
+#### React, JavaScript, SQL, Rails, Ruby, CSS, C#, HTML, Learning C++ and C currently, also learning dll's language CIL or IL, and now java apparently
 
 
 
