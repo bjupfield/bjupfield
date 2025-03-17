@@ -1,20 +1,9 @@
 # Hey I'm Bennett
-I exist Here is some code that I have created, if you want to reach me uhh, currently either email me or find my discord.
-
-LLLLL---LLLLL
-
-I HAVE ABANDONED THIS PROJECT AND AM CURRENTLY WORKING IN UNREAL
-
-LLLLLLLLLLLL------------LLLLLLLLLLLLLLL
-
-I HAVE ABANDONED UNREAL AND AM CURRENTELY WORKING IN UNREAL
-
-LLLLLLLLLLLLLLLLLLL---------------------LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
-
-I HAVE ABANDONED UNREAL AND AM CURRENTLY WORKING ON WHATEVER REPOSITORIES I HAVE MOST RECENTLY PUSHED TOO
-
-tdl:
-
+Hi Weirdo looking at this. If you want to keep up with me, or find out what I'm actually currently working on text me or dm on discord.
+The latest project I'm working on is an user-implementation of ffmpeg audio-redirecting implementing OpenGL directly for the graphical Interface.
+This Project is planned to mostly be used to target specific audio-streams on a desktop, to allow for the easy recording of Specific Desktop Applications,
+with limited intrusion. There are future plans for the project, but for now I'm keeping it simple. Also, working on a DWm side-project, but thats
+going very slowly.
 
 ### "Languages/FrameWorks"
 
